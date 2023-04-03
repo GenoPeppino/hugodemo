@@ -1,0 +1,2 @@
+# hugodemo
+Demo for Hugo
